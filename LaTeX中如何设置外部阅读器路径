@@ -1,0 +1,5 @@
+当安装好LaTeX排版软件后，开始愉快的书写文档。之前没有意识到还需要配置合适的阅读器，因为点击编译按钮，生成pdf文件，电脑上自带的有福昕阅读器，所以也没有妨碍我正常浏览编译成功的pdf。
+今天第二次重装LaTeX，安装三部曲，我是Windows系统，一texlive，二texstudio（免费），三sumatra。安装很顺利。（各软件版本忽略）
+再次重温编译过程，突然意识到没用到sumtra。
+开始设置路径，找到texstudio的选项->设置texstudio->命令->外部pdf查看器（把里面的路径设置成自己安装的sumatra路径，比如D:\Program Files\SumatraPDF\sumatrapdf.exe）
+ok,返回texstudio，编译查看pdf，浏览速度比我原来的福昕阅读器快多了。
